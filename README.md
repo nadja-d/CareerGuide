@@ -33,7 +33,7 @@ In the Courses page, partners can view a `jTable` with all available courses. Th
 
 ## Database
 
-The CareerGuide application uses a MySQL database administered via phpMyAdmin. The database is named `finalproject` and includes the following tables:
+The CareerGuide application uses a MySQL database administered via phpMyAdmin. The database is named `careerguide` and includes the following tables:
 
 ### Tables
 
